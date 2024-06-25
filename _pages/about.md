@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Peng Deng Account's home on the web!
+Welcome to my personal site! It's under construction, but exciting things are on the way!
