@@ -15,7 +15,6 @@ My research is primarily focused on software security, specifically addressing v
 To push the boundaries in this field, I leverage multidisciplinary techniques such as advanced program analysis and fuzzing. Currently, I am also actively exploring the integration of Large Language Models (LLMs) to significantly enhance these security methodologies.
 
 ## 📄 Publications {#publications}
----
 1. <strong style="font-weight: bold;">Algernon: A Flag-Guided Hybrid Fuzzer for Unlocking Hidden Program Paths.</strong>  [<a href="/files/Algernon-ase25.pdf" target="_blank">Paper</a>]  
    <strong style="font-weight: bold;">Peng Deng</strong>, Lei Zhang, Jingqi Long, Wenzheng Hong, Zhemin Yang, Yuan Zhang, Donglai Zhu, Min Yang.  
    In Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering (ASE), Seoul, South Korea, November 16-20, 2025.
@@ -36,12 +35,10 @@ To push the boundaries in this field, I leverage multidisciplinary techniques su
    In Proceedings of the 30th ACM Conference on Computer and Communications Security (CCS), Copenhagen, Denmark, November 26-30, 2023. 
 
 ## 🏅 Honors and Awards {#awards}
----
 - 2025: National Scholarship of China
 - 2025: USENIX Security Student Grant
 
 ## 🎓 Academic Services {#services}
----
 - <strong style="font-weight: bold;">External Reviewer</strong>
   - USENIX ATC 2025
   - CCS 2024
