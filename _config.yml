@@ -10,6 +10,7 @@
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Peng Deng's Homepage"
+short_title              : "Homepage"
 title_separator          : "-"
 name                     : &name "Peng Deng"
 description              : &description "This is Peng Deng's Homepage"   # Update this with a general description of your site, this is the default if not overridden by a page
