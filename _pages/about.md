@@ -1,10 +1,12 @@
 ---
 permalink: /
+title:
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 ## 👨🏻‍🎓 About Me {#about-me}
 I am a final-year Ph.D. candidate at the College of Computer Science and Artificial Intelligence, Fudan University, under the supervision of Prof. Min Yang and Prof. Lei Zhang.
 
