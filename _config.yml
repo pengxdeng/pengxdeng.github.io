@@ -24,7 +24,7 @@ repository               : "pengxdeng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "pengdeng.jpg"
   name             : "Peng Deng"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student at Fudan University"
